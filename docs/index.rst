@@ -14,7 +14,7 @@ Welcome to Django Xadmin's Documentation!
    quickstart
    customization
 
-功能特性
+功能很行
 ----------
 
 .. toctree::
